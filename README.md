@@ -1,11 +1,11 @@
 # Proyectos de Power BI
 
-Este repositorio incluye varios proyectos realizados en Power BI, basados en tutoriales de YouTube. Estos proyectos fueron creados para practicar y aprender sobre el uso de Power BI a través de ejemplos paso a paso. A continuación se detallan los diferentes proyectos disponibles, junto con los videos de YouTube que seguí como guía.
+Ejercicios de práctica en Power BI, uno por carpeta. Son proyectos guiados
+(basados en tutoriales), usados para aprender modelado de datos, DAX y
+diseño de dashboards — se declara el origen en el README de cada carpeta,
+no se presentan como análisis originales de cero.
 
-## 1. Financial Analysis Report 
+## Proyectos
 
-Este proyecto se basa en un tutorial de YouTube donde se crea un **Financial Analysis Report** utilizando Power BI. En el video, se enseñan diversas técnicas para crear un reporte financiero interactivo que incluye KPIs clave como márgenes de beneficio, descuentos aplicados, y análisis de ventas.
-
-### Video utilizado como referencia:
-- [Financial Analysis Report con Power BI - Tutorial Paso a Paso](https://www.youtube.com/watch?v=crkWmi8z004&list=PLW_RHMgXUBEo1vhVyR3LdBlcVeeJt9Ipo&ab_channel=FestManLearningHub)
-
+1. [Financial Analysis Report](01-financial-analysis-report/) — dashboard
+   ejecutivo de ventas, órdenes, utilidad y descuentos por país/segmento/producto.
